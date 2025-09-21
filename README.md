@@ -1,2 +1,0 @@
-# wordpress
-word press projects
